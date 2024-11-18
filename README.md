@@ -2,9 +2,9 @@
 
 **Ich bin Leon.**
 
-- 🔭 Ich bin @NoriskClient Beta Tester
-- 🔭 Ich bin @HGLabor Betatester
-- 🔥 Ich bin großer Fan von @copyandexecute
+- 🔭 Ich bin NoriskClient Beta Tester
+- 🔭 Ich bin HGLabor Betatester
+- 🔥 Ich bin großer Fan von Norisk
 - 🌱 Ich lerne Java
 - 🇩🇪 Ich bin Deutscher
 - 🇺🇸 Ich spreche fliesend Englisch
@@ -23,3 +23,4 @@
 - 🏊‍♂️ Schwimmen
 - 🖥️ Minecraft
 - 🖥️ Coden
+- 
