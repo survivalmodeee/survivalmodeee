@@ -23,3 +23,5 @@
 - 🏊‍♂️ Schwimmen
 - 🖥️ Minecraft
 - 🖥️ Coden
+
+Ah und hier nochwas: 'hi.txt'
