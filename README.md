@@ -24,4 +24,6 @@
 - 🖥️ Minecraft
 - 🖥️ Coden
 
-Ah und hier nochwas: 'hi.txt'
+Ah und hier nochwas: https://github.com/survivalmodeee/survivalmodeee/blob/2570b15cb46710b0dcc87fb7a4d96bd8e4bfd493/hi.txt
+
+Und nochwas: https://norisk.gg
