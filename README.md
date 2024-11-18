@@ -1,15 +1,23 @@
-## Hi there 👋
+## Wer bin ich?
 
+**Ich bin Leon.**
 
-**survivalmodeee/survivalmodeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Ich bin Norisk Client Beta Tester
+- 🌱 Ich lerne Java
+- 🇩🇪 Ich bin Deutscher
+- 🇺🇸 Ich spreche fliesend Englisch
 
-Here are some ideas to get you started:
+## Was mache ich?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Nicht viel...**
+
+- Ich versuche einen Discord Bot in Python zu erstellen
+- Ich veruche mich an Fabric Development
+
+## Was sind meine Hobbys?
+
+**Haha habe nur wenige lol**
+
+- 🏊‍♂️ Schwimmen
+- 🖥️ Minecraft
+- 🖥️ Coden
