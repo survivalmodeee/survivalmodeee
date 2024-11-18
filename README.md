@@ -23,4 +23,3 @@
 - 🏊‍♂️ Schwimmen
 - 🖥️ Minecraft
 - 🖥️ Coden
-- 
